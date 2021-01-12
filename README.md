@@ -19,4 +19,6 @@ We provide access to the data via zenodo [insert doi]. You can download the zip 
 
 **networks**: We provide our trained networks here.
 
+**lib**: We save our helper files there.
+
 # How to reconstruct the plots
