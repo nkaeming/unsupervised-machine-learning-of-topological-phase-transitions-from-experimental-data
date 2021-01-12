@@ -9,6 +9,6 @@ We provide access to the data via zenodo [insert doi]. You can download the zip 
 
 **data**: The data folder contains the data. This folder needs to be extracted from the zip archive we provide via zenodo [insert doi]. You'll find 7 hdf5 files there. They contain the image pixel data and the experimental parameters. The the notebooks for details. We provide the raw dataset cropped to 56x56 pixels which restricts us to data for the first BZ. The files with the rephased postfix correspond to the data which is rephased to a fixed micromotion phase by our VAE.
 
-**networks**: We rpovide our trained networks here.
+**networks**: We provide our trained networks here.
 
 # How to reconstruct the plots
