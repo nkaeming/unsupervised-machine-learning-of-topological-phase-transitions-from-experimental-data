@@ -22,3 +22,4 @@ We provide access to the data via zenodo [insert doi]. You can download the zip 
 **lib**: We save our helper files there.
 
 # How to reconstruct the plots
+To reconstruct the plots most of the time you can run the individual notebooks and follow the instructions inside. To reconstruct the complete paper run all files in alphabetic order. We note that the training of the VAE needs around 6 hours on a 2080Ti. So you may want to skip this part and use the trained model we provide in the networks folder. 
