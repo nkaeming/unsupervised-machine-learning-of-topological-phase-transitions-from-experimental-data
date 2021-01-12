@@ -2,7 +2,7 @@
 This repository contains the notebooks and scripts to reconstruct the results in this paper [insert arxiv link].
 
 # Where to get the data
-We provide access to the data via zenodo [insert doi]. You can download the zip archieve there and unzip it. It will contain the data as well as the pretrained models.
+We provide access to the data via zenodo [insert doi]. You can download the zip archieve there and unzip it. It will contain the data as well as the trained models.
 
 # Structure
 **.**: The root folder contains the notebooks for the different figures. In general they can be run individually. If you want to use them to experiment or for your own data you need to run them according to their order in the paper.
