@@ -1,5 +1,5 @@
 # Unsupervised machine learning of topological phase transitionsfrom experimental data
-This repository contains the notebooks and scripts to reconstruct the results in this paper [insert arxiv link].
+This repository contains the notebooks and scripts to reconstruct the results in our paper https://arxiv.org/abs/2101.05712.
 
 # Where to get the data
 We provide access to the data via zenodo [insert doi]. You can download the zip archieve there and unzip it. It will contain the data as well as the trained models.
