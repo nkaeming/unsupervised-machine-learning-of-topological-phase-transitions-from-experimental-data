@@ -1,6 +1,6 @@
 import tensorflow as tf
 import numpy as np
-from autoencoder.VAE import CVAE
+from lib.VAE import CVAE
 
 @tf.function
 def log_normal_pdf(sample, mean, logvar, raxis=1) -> tf.Tensor:
